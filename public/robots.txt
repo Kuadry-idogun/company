@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.baxting.xyz/sitemap.xml
+Sitemap: https://www.baxting.com/sitemap.xml
