@@ -67,7 +67,7 @@ const Footer = ({theme}) => {
             <a href="https://www.facebook.com/share/1Avd19zDrg/?mibextid=wwXIfr"><img src= {assets.facebook_icon} alt="" /></a>
             <a href="https://x.com/baxting_?s=21&t=UfL2TSefBYcyB3RM3alREQ"><img src= {assets.twitter_icon} alt="" /></a>
             <a href="https://www.instagram.com/baxting2025?igsh=MWdjNWJ2YzJidWk3dQ%3D%3D&utm_source=qr"><img src= {assets.instagram_icon} alt="" /></a>
-            <a href=""><img src= {assets.linkedin_icon} alt="" /></a>
+            {/* <a href=""><img src= {assets.linkedin_icon} alt="" /></a> */}
           </div>
 
         </motion.div>
